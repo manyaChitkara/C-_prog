@@ -10,6 +10,7 @@ public:
         cout<<"Constructor = "<<x;
     }
 };
+/* main starts here */
 int main()
 {
     int x;
