@@ -1,7 +1,7 @@
 #include <iostream>
 
 using namespace std;
-
+/* player class starts here */
 class player
 {
     static int n;
