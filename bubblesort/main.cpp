@@ -1,7 +1,7 @@
 #include <iostream>
 
 using namespace std;
-
+/* main body starts here */
 int main()
 {
     int a[5];
